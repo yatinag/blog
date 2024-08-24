@@ -7,7 +7,7 @@ nav_order: 1
 
 # Home of my ideas
 
-My goal here is to document the [best of my ideas](/ideas). I aim that documenting these ideas will:
+My goal here is to document the [best of my ideas](/blog/ideas). I aim that documenting these ideas will:
 
 - clarify my true beliefs
 - acknowledge ongoing concerns
@@ -17,6 +17,6 @@ My goal here is to document the [best of my ideas](/ideas). I aim that documenti
 
 # Start reading
 
-- [The beach problem](/ideas#the-beach-problem)
-- [Growth at work](/ideas#growth-at-work)
-- [Wellness retro](/ideas#wellness-retro)
+- [The beach problem](/blog/ideas#the-beach-problem)
+- [Growth at work](/blog/ideas#growth-at-work)
+- [Wellness retro](/blog/ideas#wellness-retro)
