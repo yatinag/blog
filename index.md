@@ -18,5 +18,5 @@ My goal here is to document the [best of my ideas](/ideas). I aim that documenti
 # Start reading
 
 - [The beach problem](/ideas#the-beach-problem)
-- [Growth at work (painfully)](/ideas#growth-at-work-painfully)
+- [Growth at work](/ideas#growth-at-work)
 - [Wellness retro](/ideas#wellness-retro)
