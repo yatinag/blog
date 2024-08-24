@@ -49,7 +49,7 @@ With the right perspective.
 
 ---
 
-# Growth at work (painfully)
+# Growth at work
 [July 2024]()
 
 Maybe there’s something to be learned from it or maybe expressing will help me feel better … but here's my current perspective about work.
