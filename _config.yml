@@ -2,7 +2,12 @@ title: Yatin's Ideas
 description: Contains 1% of my ideas that deserved being written.
 theme: just-the-docs
 
-url: https://yatinag.com
+url: https://yatinag.com/blog
 
 aux_links:
   Home Website: https://yatinag.com/
+
+callouts:
+  important-title:
+    title: Stay updated!
+    color: blue

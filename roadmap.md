@@ -18,3 +18,11 @@ This covers some ideas I plan to explore & write about. Listing them here so I d
 | [All known vices (running list)]() | What are ways I act immorally? What are certain behaviors I engage in that I believe to be wrong? A starting goal would be to recognize these behaviors. A sretch goal would be to come up with mitigations. | -  |
 | [Promises to myself]() | What are promises I can make to myself & actually follow through? I often set targets for myself that I detail from - on a certain day or over time. What are timeless promises I can commit to? How do I sty accountable? | -    |
 | [INTRO (existential)]() | Who am I? Why does my life matter? What motivates me? What have I done so far? What do I intend to do? | -  |
+
+{: .important-title }
+> <form action="https://formspree.io/f/xldeobvz" method="POST">
+>   <label>
+>     <input type="email" name="email" placeholder="email here ...">
+>   </label>
+>   <button type="submit">Subscribe</button>
+> </form>

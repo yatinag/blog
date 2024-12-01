@@ -13,6 +13,21 @@ nav_order: 2
 
 ---
 
+# Therapy
+[September 2024]()
+
+Today was my last therapy session ... 
+
+Before discuss my experience, let me note why I started it. A few months ago, I sought professional help as I felt just lost in life. I was living away from family, friends, the city and often feeling alone after work which sucked. I'd gone through a break up many months ago but it seemed to bother me more suddenly. I was spending long hours at work without knowing where my career was headed either.
+
+It was uncomfortable facing myself at home – I didn't want to acknowledge how I was feeling and preferred just distracting myself with instagram or playing chess online or dating apps that didn't go anywhere. Some weekends, I'd just go to the office as a getaway from my emotions.
+
+Things weren't always like this. Generally, I pride myself of having good habits, but back then I felt drained in this cycle for several weeks. I wasn't waking up early and working out inconsistently. Even personal goals of getting into a good MBA program and building side projects that could become potential companies weren't being worked on enough to become a reality.
+
+I was tried of feeling dissapointed and wanted to change something but wasn't sure how. I tried discussing with friends and family but feedback wasn't specific enough to cause any behavioral changes. So, I looked to therapy.
+
+---
+
 # The beach problem
 [July 2024]()
 
@@ -112,3 +127,11 @@ I don’t have a long-term game plan to get better … yet. I have a sleep sched
 **I have a few immediate tactics for “wellness” but it’s an ongoing journey that I’m game for.**
 
 ---
+
+{: .important-title }
+> <form action="https://formspree.io/f/xldeobvz" method="POST">
+>   <label>
+>     <input type="email" name="email" placeholder="email here ...">
+>   </label>
+>   <button type="submit">Subscribe</button>
+> </form>
