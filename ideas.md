@@ -18,13 +18,17 @@ nav_order: 2
 
 Today was my last therapy session ... 
 
-Before discuss my experience, let me note why I started it. A few months ago, I sought professional help as I felt just lost in life. I was living away from family, friends, the city and often feeling alone after work which sucked. I'd gone through a break up many months ago but it seemed to bother me more suddenly. I was spending long hours at work without knowing where my career was headed either.
+Before discussing my experience, let me note why I started therapy. A few months ago, I sought professional help as I felt just lost in life. I was living away from family, friends and the city – often feeling alone after work. I'd gone through a break up many months ago but the feelings seemed to accentuate more recently. I was spending long hours at work without knowing where my career was headed either.
 
 It was uncomfortable facing myself at home – I didn't want to acknowledge how I was feeling and preferred just distracting myself with instagram or playing chess online or dating apps that didn't go anywhere. Some weekends, I'd just go to the office as a getaway from my emotions.
 
-Things weren't always like this. Generally, I pride myself of having good habits, but back then I felt drained in this cycle for several weeks. I wasn't waking up early and working out inconsistently. Even personal goals of getting into a good MBA program and building side projects that could become potential companies weren't being worked on enough to become a reality.
+Things weren't always like this. Generally, I pride myself of having good habits, but back then I felt drained in this uncertainity cycle for several weeks. I wasn't waking up early and working out inconsistently. Even personal goals of getting into a good MBA program and building side projects that could become potential companies weren't being worked on enough to become a reality.
 
-I was tried of feeling dissapointed and wanted to change something but wasn't sure how. I tried discussing with friends and family but feedback wasn't specific enough to cause any behavioral changes. So, I looked to therapy.
+I was tried of feeling dissapointed and wanted to change something. I tried discussing my situation with friends and family but feedback wasn't specific enough to cause any behavioral changes. So, I looked to therapy.
+
+First, thank you insurance. I got 3 free sessions followed by 20% co-pay for remaining sessions (amouting to 22.50$ / session). Each session was an hour long. This felt reasonable to me, so I picked a therapist based on online reviews and scheduled a call with them. Let me pull back the curtains on exactly what happens during these sessions.
+
+The first couple sessions were just to set context: share 24 years of my backgrounds, childhood experiences, signifincant milestones, failures, reasons to start the session, etc. The best way to describe a therapist is a 'professional mental trainer' who solely listens to you and provides measured ways to improve your thinking.
 
 ---
 
