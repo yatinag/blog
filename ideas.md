@@ -24,11 +24,20 @@ It was uncomfortable facing myself at home – I didn't want to acknowledge how 
 
 Things weren't always like this. Generally, I pride myself of having good habits, but back then I felt drained in this uncertainity cycle for several weeks. I wasn't waking up early and working out inconsistently. Even personal goals of getting into a good MBA program and building side projects that could become potential companies weren't being worked on enough to become a reality.
 
-I was tried of feeling dissapointed and wanted to change something. I tried discussing my situation with friends and family but feedback wasn't specific enough to cause any behavioral changes. So, I looked to therapy.
+I was tried of feeling dissapointed and wanted to change something. I tried discussing my situation with friends and family but feedback wasn't specific enough to trigger any behavioral changes. So, I looked to therapy.
 
-First, thank you insurance. I got 3 free sessions followed by 20% co-pay for remaining sessions (amouting to 22.50$ / session). Each session was an hour long. This felt reasonable to me, so I picked a therapist based on online reviews and scheduled a call with them. Let me pull back the curtains on exactly what happens during these sessions.
+First, thank you insurance. I got 3 free sessions followed by 20% co-pay for remaining sessions (amouting to 22.50$ / session). Each session was an hour long every other week. This felt reasonable to me, so I picked a therapist based on online reviews and scheduled a call with them. Let me pull back the curtains and breakdown exactly what happens during these sessions.
 
-The first couple sessions were just to set context: share 24 years of my backgrounds, childhood experiences, signifincant milestones, failures, reasons to start the session, etc. The best way to describe a therapist is a 'professional mental trainer' who solely listens to you and provides measured ways to improve your thinking.
+- **Session 1 – Introduction**: The first session was to set context: share 24 years of my backgrounds, childhood experiences, significant milestones, failures, reasons to start the session, etc. Nothing revolutionary but the therapist seemed calm and understanding so I left feeling hopeful.
+- **Session 2 – Cutting distractions and vices**
+- **Session 3 – How to work towards goals**
+- **Session 4 – Tips to study for GMAT**
+- **Session 5 – Fitting in socially**
+- **Session 6 – Coping emotionally**
+- **Session 7 – Discussing good vibes**
+- **Session 8 – Closing remarks**
+
+In my opinion, the best way to describe a therapist is a 'professional mental trainer' – a specialist who reserves time to understand you and provide measured ways to improve your thinking and behaviors. Socially, sometimes getting a therapist is interpreted as indicating core flaws in your behavior or traumas. But it takes courage to admit to yourself that you need to improve mentally. It takes even more courage to act on it. I'm happy I signed up and would argue that everyone can use a bit of mental training. 
 
 ---
 
