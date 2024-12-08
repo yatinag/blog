@@ -36,7 +36,7 @@ Thank you insurance – I had Cigna HDHP with the Employee Assistance Program (E
 
 Let me pull back the curtains on exactly what happens during these sessions:
 
-- **Session 1 – Introduction**: The first session was to set context: share 24 years of my backgrounds, childhood experiences, significant milestones, failures, reasons to start the session, etc. Nothing revolutionary but the therapist seemed calm and understanding so I left feeling hopeful.
+- **Session 1 – Introduction**
 - **Session 2 – Cutting distractions and vices**
 - **Session 3 – How to work towards goals**
 - **Session 4 – Tips to study for GMAT**
