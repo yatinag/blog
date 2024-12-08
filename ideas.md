@@ -18,6 +18,8 @@ nav_order: 2
 
 Today was my last therapy session ... 
 
+## Why I started therapy
+
 Before discussing my experience, let me note why I started therapy. A few months ago, I sought professional help as I felt just lost in life. I was living away from family, friends and the city – often feeling alone after work. I'd gone through a break up many months ago but the feelings seemed to accentuate more recently. I was spending long hours at work without knowing where my career was headed either.
 
 It was uncomfortable facing myself at home – I didn't want to acknowledge how I was feeling and preferred just distracting myself with instagram or playing chess online or dating apps that didn't go anywhere. Some weekends, I'd just go to the office as a getaway from my emotions.
@@ -26,7 +28,13 @@ Things weren't always like this. Generally, I pride myself of having good habits
 
 I was tried of feeling dissapointed and wanted to change something. I tried discussing my situation with friends and family but feedback wasn't specific enough to trigger any behavioral changes. So, I looked to therapy.
 
-First, thank you insurance. I got 3 free sessions followed by 20% co-pay for remaining sessions (amouting to 22.50$ / session). Each session was an hour long every other week. This felt reasonable to me, so I picked a therapist based on online reviews and scheduled a call with them. Let me pull back the curtains and breakdown exactly what happens during these sessions.
+## Logistics
+
+Thank you insurance – I had Cigna HDHP with the Employee Assistance Program (EAP). This got me 3 free sessions followed by 20% co-pay for remaining sessions (amouting to 22.50$ / session). Each session was an hour long every other week. This felt reasonable to me, so I picked a therapist based on online reviews and scheduled a call with them.
+
+## Session breakdown
+
+Let me pull back the curtains on exactly what happens during these sessions:
 
 - **Session 1 – Introduction**: The first session was to set context: share 24 years of my backgrounds, childhood experiences, significant milestones, failures, reasons to start the session, etc. Nothing revolutionary but the therapist seemed calm and understanding so I left feeling hopeful.
 - **Session 2 – Cutting distractions and vices**
