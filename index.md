@@ -15,6 +15,7 @@ My goal here is to document the [best of my ideas](/blog/ideas). I aim that docu
 
 # Start reading
 
+- [Farewell Reflection](/blog/ideas#farewell-reflection)
 - [Therapy](/blog/ideas#therapy)
 - [The beach problem](/blog/ideas#the-beach-problem)
 - [Growth at work](/blog/ideas#growth-at-work)

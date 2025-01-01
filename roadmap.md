@@ -16,6 +16,7 @@ This covers some ideas I plan to explore & write about. Listing them here so I d
 | [Review of being single]() | This may be my last few years / maybe months of being single. This would explore tradeoffs of single vs cuffed, things I can only do while single, how to make the most of this phase. | -       |
 | [The kind of org I want to build]() | I believe professional orgs are one of the most meaningful ways to facilitate 1. large scale impact & 2. personal growth. This would explore: why do I want to build a company? what values must it follow? what will be my role? | -  |
 | [All known vices (running list)]() | What are ways I act immorally? What are certain behaviors I engage in that I believe to be wrong? A starting goal would be to recognize these behaviors. A sretch goal would be to come up with mitigations. | -  |
+| [Ideas to improve the world (running list)]() | A comprehensive list of ongoing ways I see the world needs to improve, describing observed issues and why they matter. | - |
 | [Promises to myself]() | What are promises I can make to myself & actually follow through? I often set targets for myself that I detail from - on a certain day or over time. What are timeless promises I can commit to? How do I sty accountable? | -    |
 | [INTRO (existential)]() | Who am I? Why does my life matter? What motivates me? What have I done so far? What do I intend to do? | -  |
 

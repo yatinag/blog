@@ -13,6 +13,25 @@ nav_order: 2
 
 ---
 
+# Farewell Reflection
+[December 2024]()
+
+My thoughts on leaving Moveworks:
+
+Honestly, I’ve thought about moving back to India with my family for many years. But yesterday as I thought about this farewell, I was overcome with emotions.
+
+For last 3 years, working here has formed my identity:
+- Leading projects that intrigue me with people I respect has fully immersed me.
+- New friends I’ve made are from work, even found brothers in the process.
+
+This job has presented me with some of the hardest personal / professional challenges I’ve had to navigate: feeling undervalued for my contributions, aligning tough stakeholders, enabling large teams that won’t read your docs, and building a product as innovative and complex as creator studio: sometimes I’ve missed requirements. Sometimes my decisions caused millions in escalations. Sometimes I've lost emotional control.
+
+Maybe this was an important ‘trial by fire.’ From being scared to speak up in meetings, and constantly feeling under confident in my ideas, I’ve grown to be a person I can respect in many ways. Someone who truly believes in himself and is hungrier than ever to leave a mark on the world. I can’t see another way I would have grown similarly.
+
+The new chapter brings uncertainty. I don't know if I'll find another meaningful purpose. I don't know if startup plans will manifest. But I leave feeling blessed with the growth so far and optimistic about what's to come.
+
+---
+
 # Therapy
 [September 2024]()
 
@@ -34,7 +53,7 @@ Thank you insurance – I had Cigna HDHP with the Employee Assistance Program (E
 
 ## Session breakdown
 
-Let me pull back the curtains on exactly what happens during these sessions:
+Let me pull back the curtains on what happens during these sessions:
 
 - **Session 1 – Introduction**
 - **Session 2 – Cutting distractions and vices**
