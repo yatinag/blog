@@ -15,6 +15,7 @@ My goal here is to document the [best of my ideas](/blog/ideas). I aim that docu
 
 # Start reading
 
+- [Kuch Bada Karna Hai](/blog/ideas#kuch-bada-karna-hai)
 - [Farewell Reflection](/blog/ideas#farewell-reflection)
 - [Therapy](/blog/ideas#therapy)
 - [The beach problem](/blog/ideas#the-beach-problem)

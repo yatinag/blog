@@ -13,6 +13,21 @@ nav_order: 2
 
 ---
 
+# Kuch Bada Karna Hai
+[January 2025]()
+
+Har roz sone se pehle lagta hai ki, bc zindagi mein kuch ukhada nahin hai. Duniya se ghar, parivar, padhai, dost, zaroorat jitne paise milne ke baad bhi kuch kami lagti hai. 
+
+Shayad do cheezon ki kami hai.
+
+Ek kuch bada karne ki. Kuch aesa jo mere close logon ki madad to kare hi but puri duniya ko ek behtareen aur beautiful jaga bana de, shayad thode mere hi style mein.
+
+Doosri long term finances ki. Even simple needs ke saath, ek certain family lifestyle aur mental freedom ke liye finances important hai. But agle 20 years mein, kitna earn hai define karna chahiye.  
+
+Duniya puchti rehti hai "ab kya plans hai?" – mujhe apna koi immediate answer pasand nahin aata. Kuch bada karne ke plan mein clarity chahiye.
+
+---
+
 # Farewell Reflection
 [December 2024]()
 
@@ -51,9 +66,9 @@ I was tried of feeling dissapointed and wanted to change something. I tried disc
 
 Thank you insurance – I had Cigna HDHP with the Employee Assistance Program (EAP). This got me 3 free sessions followed by 20% co-pay for remaining sessions (amouting to 22.50$ / session). Each session was an hour long every other week. This felt reasonable to me, so I picked a therapist based on online reviews and scheduled a call with them.
 
-## Session breakdown
+## Session takeaways
 
-Let me pull back the curtains on what happens during these sessions:
+The following was the flow of sessions:
 
 - **Session 1 – Introduction**
 - **Session 2 – Cutting distractions and vices**
@@ -63,6 +78,8 @@ Let me pull back the curtains on what happens during these sessions:
 - **Session 6 – Coping emotionally**
 - **Session 7 – Discussing good vibes**
 - **Session 8 – Closing remarks**
+
+Discussions made me realize core frustration came from unfulfilling habits and settings personal goals that I wasn't meeting. I received practical advise and someone who was holding me accountable on new habits I was to adopt. Some weeks were so good that I couldn't think of anything to get additional help about. A small win was also giving my GMAT exam during this period in good headspace and achieving a satisafactory score.
 
 In my opinion, the best way to describe a therapist is a 'professional mental trainer' – a specialist who reserves time to understand you and provide measured ways to improve your thinking and behaviors. Socially, sometimes getting a therapist is interpreted as indicating core flaws in your behavior or traumas. But it takes courage to admit to yourself that you need to improve mentally. It takes even more courage to act on it. I'm happy I signed up and would argue that everyone can use a bit of mental training. 
 
