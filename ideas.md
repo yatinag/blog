@@ -15,6 +15,7 @@ nav_order: 2
 
 # Birthday post
 [February 2025]()
+
 I’ve never been more excited to be alive. With the knowledge I’ve gained in US & the grit I’ve gained in India I feel dangerous. I sense so many problems in the world which I would love to spend my entire life solving. Last few years, I’ve been fortunate to deploy technology to millions & build reliable AI products at the heart of innovation in Silicon Valley. I know I’m capable of lovingly building these products: AI that makes businesses feel easy, applications that you want to open every day, APIs to make integrations a layman skill. I like to think I have the discipline & all that it takes, but time will tell as I’m tested on this new journey. I will build something meaningful. Hopefully something that spans beyond my time. Hopefully something I enjoy pursuing every waking moment. Hopefully something that makes people happier. But definitely something awesome that I will use, build in my style, & come from a place of deep love & gratitude for the world. I turn 25 tomorrow, the year I become HIM.
 
 ---
