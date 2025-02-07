@@ -13,6 +13,20 @@ nav_order: 2
 
 ---
 
+# Important Conclusions
+[February 2025]()
+
+- Data ranges from being unstructured (raw) to structured (well categorized). The more structure it has, the more useful it is. The process of structuring data requires data collection → cleaning → labeling → semantic understanding → classification → output transformation. **There's economic value to be created from making data structured**. Here's the data spectrum:
+![data spectrum](images/data-spectrum.png)
+
+- **File organization suck today**. They're unorganized. Their names are ugly. Average professional has 2TB+ accessible data which can never be found when needed. Expecting employees to organize files in neat folders with no duplicates is a pipe dream. Employees annualy lose weeks of productivity and gain 20+ points of blood pressure trying to find the right files & browsing unorganized desktops and downloads. No search tool can operate on this mess:
+![cluttered files](images/cluttered-files.png)
+
+- People are lazy. They don't like to change. They spend 95% time on existing habits & 5% time trying new things. An average worker can reduce ~2 hrs of wasted time through 10 mins of daily planning. **Products need to be easy to adopt**: sit in existing workflows, require 0-1 clicks to prove initial value, be non-intrusive & just show up when relevant without manual effort. Currently system use has many dependencies on external variables, user's attitude, intentions, perceived ease of use & usefulness.
+![system use behavior](images/system-use-theory.png)
+
+---
+
 # Birthday post
 [February 2025]()
 
