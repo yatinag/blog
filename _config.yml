@@ -11,3 +11,7 @@ callouts:
   important-title:
     title: Stay updated!
     color: blue
+
+collections:
+  labyrinth:
+    output: true

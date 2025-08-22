@@ -13,6 +13,29 @@ nav_order: 2
 
 ---
 
+# What pisses me off
+[August 2025]()
+
+About myself
+1. When I don't do my best
+2. When I don't stick to a commitment
+3. When I do my best but I don't see results
+4. When I am intuitively bad at something
+5. When I can't or don't help someone I care about
+6. When I can't make someone I care about see my point of view
+7. When I let someone else piss me off
+
+About others
+1. When someone I'm dependant on acts in poor nature
+2. When someone I'm dependant on commits to something but doesn't deliver
+3. When someone I care about acts in poor nature
+4. When someone I care about lies to me
+5. When someone I care about doesn't see my point of view
+6. When someone pretending to be a client keeps changing requirements
+7. When someone has an ego
+
+---
+
 # Important Conclusions
 [February 2025]()
 

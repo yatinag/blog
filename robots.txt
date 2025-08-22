@@ -1,0 +1,32 @@
+# Block a bunch of AI/LLM and AI-search crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Claude-User
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+# Common Crawl (feeds many AI datasets)
+User-agent: CCBot
+Disallow: /
+
+# Optional: keep normal search engine bots allowed
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
